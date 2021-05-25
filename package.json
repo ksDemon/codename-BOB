@@ -1,0 +1,24 @@
+{
+    "name": "codename-BOB",
+    "version": "1.0.0",
+    "description": "",
+    "main": ".eleventy.js",
+    "scripts": {
+        "build": "eleventy",
+        "start": "eleventy --serve"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ksDemon/codename-BOB.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ksDemon/codename-BOB/issues"
+    },
+    "homepage": "https://github.com/ksDemon/codename-BOB#readme",
+    "devDependencies": {
+        "@11ty/eleventy": "^0.12.1"
+    }
+}
